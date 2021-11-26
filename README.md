@@ -4,7 +4,10 @@ A game created using java which simulates a dot accelerating around space using 
 
 
 
-https://user-images.githubusercontent.com/76058143/143585104-c079aeaf-2606-44f7-9b81-ecabed678eca.mp4
+
+
+https://user-images.githubusercontent.com/76058143/143612110-99ef3fcd-74ba-4901-af92-c703245e94ad.mp4
+
 
 
 
